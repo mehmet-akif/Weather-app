@@ -55,15 +55,11 @@ To use a simple local server:
 ## API Integration
 The app uses the WeatherAPI to fetch weather details. Ensure you replace the `apiKey` in `script.js` with your own API key.
 
-## Folder Structure
-```
-Weather-app/
-│── index.html         # Main HTML file
-│── style.css          # Styles for the app
-│── script.js          # JavaScript logic for fetching and displaying weather data
-│── README.md          # Documentation
-└── assets/            # (Optional) Icons or images used in the app
-```
+
+## LICENSE
+This project is MIT Licensed, meaning you can freely use, modify, and distribute it.
+
+
 
 
 
