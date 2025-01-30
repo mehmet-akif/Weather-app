@@ -16,6 +16,7 @@ This is a simple Weather App that fetches current weather data and a 4-day forec
 - WeatherAPI (https://www.weatherapi.com/)
 - Node.js
 - MongoDB
+- POSTMAN
 
 ## Getting Started
 ### Prerequisites
